@@ -1,0 +1,6 @@
+.DS_STORE
+*/DS_STORE
+.png.meta
+**/*.png.meta
+.ttf
+**/*.ttf
